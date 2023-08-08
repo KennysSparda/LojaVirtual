@@ -1,0 +1,8 @@
+OBJETIVO
+
+Um sistema onde temos objetos gerais e especializacoes em dois subgrupos: Funcionarios e Clientes relacionados pelo verbo Vender.
+O que o cliente quer?	Um sistema de vendas online;
+Como ele quer?		Simples, Leve, Rapido;
+Que plataforma?		Web;
+
+
